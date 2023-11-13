@@ -11,9 +11,7 @@
 <body>
     this an admin page <?php
     echo 'rayen ' ;
-    echo '<br>';
-    echo '<br>';
-    echo '<br>';
+
     print_r($_POST['pass'])
     
     ?>
