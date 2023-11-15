@@ -1,25 +1,3 @@
-<?php
-$name = "rayen";
-// echo 'hi';
-// echo '<br>';
-// echo '<br>';
-// echo '<br>';
-// echo '<br>';
-// echo '<br>';
-// echo '<br>';
-// echo "my name is $name " . "$";
-// echo '<br>';
-// echo "<br>";
-// echo '<br>';
-// $array = ['key' => 45 , 'ht' => 64 , '45' , 78 ];
-// echo '<br>';
-// echo '<br>';
-// echo '<br>';
-// foreach($array as $key => $valuer){
-//     echo " hi mr / mrs today i will show $key as $valuer" ;
-//     echo "<br>";
-// }
-?>
 <!-- <!DOCTYPE html> -->
 <html lang="en" >
 <head>
